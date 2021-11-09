@@ -3,7 +3,7 @@ host: https://ministryofjustice.github.io/network-operations
 
 # Header-related options
 show_govuk_logo: true
-service_name: Network Operations Documentation Site
+service_name: Network Operations Team Site
 service_link: /network-operations
 
 # Links to show on right-hand-side of header
