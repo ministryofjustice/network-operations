@@ -2,7 +2,7 @@
 
 ## About this Repository
 
-This is the Ministry of Justice [Network Operations team](https://ministryofjustice.github.io/technical-operations) public repository for central documentation and team information
+This is the Ministry of Justice [Network Operations team](https://ministryofjustice.github.io/technical-operations) public repository for documentation and team information
 
 ## About this Website
 
