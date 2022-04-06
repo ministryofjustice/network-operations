@@ -4,7 +4,30 @@
 
 ## About this Repository
 
-This is the Ministry of Justice [Network Operations team](https://ministryofjustice.github.io/network-operations) public repository for documentation and team information
+This is the Ministry of Justice [Network Operations teams](https://ministryofjustice.github.io/network-operations) public repository for documentation and team information. We are part of [Technology Operations](https://ministryofjustice.github.io/technology-operations/#technology-operations)
+
+### Our repositories
+
+### AWS Transit Gateway
+| Name | Description |
+|-|-|
+| [Deployment-tgw](https://github.com/ministryofjustice/deployment-tgw) | This repository contains the Terraform code to deploy the AWS Transit Gateway (TGW) for connectivity between the various VPCs in the Dev, Pre-Prod and Production accounts. This repository also contains the relevant VPC and VPN attachments to other environments within the MOJ estate.|
+| [Transit-gateways](https://github.com/ministryofjustice/transit-gateways) | This repo sets up the AWS Transit Gateways (TGW) in the 'AWS MOJ Transit Gateways' AWS account. |
+
+### Palo Alto
+| Name | Description |
+|-|-|
+|  [External Dynamic List](https://github.com/ministryofjustice/staff-external-dynamic-list) | External Dynamic List for Palo Alto endpoints |
+| [GlobalProtect FW EC2 Deployment](https://github.com/ministryofjustice/deployment-GlobalProtect) | GlobalProtect firewall deployment |
+| [GlobalProtect ASG Deployment](https://github.com/ministryofjustice/deployment-GlobalProtect-ASG) | GlobalProtect Autoscale Deployment |
+| [GlobalProtect lambda functions](https://github.com/ministryofjustice/terraform-aws-step_function_globalprotect) | GlobalProtect lambda functions |
+| [Panorama Configuration](https://github.com/ministryofjustice/terraform-panorama-config) | Panorama Config written in Terraform |
+| [Public Services Network](https://github.com/ministryofjustice/deployment-PSN) | Public Services Network connection in AWS, connected via Lumen (previously CenturyLink) |
+
+### Shared Services
+| Name | Description |
+|-|-|
+| [Shared-services-infrastructure](https://github.com/ministryofjustice/staff-device-shared-services-infrastructure) | Creates infrastructure in the shared services account, including continuous integration and delivery pipelines |
 
 ## About this Website
 
