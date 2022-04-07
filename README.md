@@ -29,7 +29,7 @@ This is the Ministry of Justice [Network Operations teams](https://ministryofjus
 ### Shared Services
 | Name | Description |
 |-|-|
-| [Shared services infrastructure](https://github.com/ministryofjustice/staff-device-shared-services-infrastructure) | Creates infrastructure in the shared services account, including continuous integration and delivery pipelines |
+| [Shared services infrastructure](https://github.com/ministryofjustice/staff-device-shared-services-infrastructure) | Creates infrastructure in the shared services account, including continuous integration and delivery pipelines for the Palo Alto infrastructure and MoJO Transit Gateway |
 
 ## About this Website
 
