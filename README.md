@@ -12,8 +12,9 @@ This is the Ministry of Justice [Network Operations teams](https://ministryofjus
 ### AWS Transit Gateway
 | Name | Description |
 |-|-|
-| [Deployment-tgw](https://github.com/ministryofjustice/deployment-tgw) | This repository contains the Terraform code to deploy the AWS Transit Gateway (TGW) for connectivity between the various VPCs in the Dev, Pre-Prod and Production accounts. This repository also contains the relevant VPC and VPN attachments to other environments within the MOJ estate.|
-| [Transit-gateways](https://github.com/ministryofjustice/transit-gateways) | This repo sets up the AWS Transit Gateways (TGW) in the 'AWS MOJ Transit Gateways' AWS account. |
+| [MoJO Transit Gateway Configuration](https://github.com/ministryofjustice/deployment-tgw) | This repository contains the Terraform code to deploy the AWS Transit Gateway (TGW) for connectivity between the various VPCs in the Dev, Pre-Prod and Production accounts. This repository also contains the relevant VPC and VPN attachments to other environments within the MoJ estate.|
+| [MoJO Transit Gateway Terraform Module](https://github.com/ministryofjustice/terraform-aws-tgw) | Terraform module for TGW and TGW route table creation |
+| [MoJ Transit Gateway](https://github.com/ministryofjustice/transit-gateways) | AWS transit gateway configuration that is now managed by TechOps. This was previously managed by Cloud Platform. |
 
 ### Palo Alto
 | Name | Description |
@@ -28,7 +29,7 @@ This is the Ministry of Justice [Network Operations teams](https://ministryofjus
 ### Shared Services
 | Name | Description |
 |-|-|
-| [Shared-services-infrastructure](https://github.com/ministryofjustice/staff-device-shared-services-infrastructure) | Creates infrastructure in the shared services account, including continuous integration and delivery pipelines |
+| [Shared services infrastructure](https://github.com/ministryofjustice/staff-device-shared-services-infrastructure) | Creates infrastructure in the shared services account, including continuous integration and delivery pipelines |
 
 ## About this Website
 
