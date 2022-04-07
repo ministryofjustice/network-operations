@@ -5,7 +5,7 @@
 
 ## About this Repository
 
-This is the Ministry of Justice [Network Operations teams](https://ministryofjustice.github.io/network-operations) public repository for documentation and team information. We are part of [Technology Operations](https://ministryofjustice.github.io/technology-operations/#technology-operations)
+This is the Ministry of Justice [Network Operations teams](https://ministryofjustice.github.io/network-operations) public repository for documentation and team information. Network Operations are part of [Technology Operations](https://ministryofjustice.github.io/technology-operations/#technology-operations).
 
 ### Our repositories
 
