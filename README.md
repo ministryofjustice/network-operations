@@ -25,6 +25,7 @@ This is the Ministry of Justice [Network Operations teams](https://ministryofjus
 | [GlobalProtect lambda functions](https://github.com/ministryofjustice/terraform-aws-step_function_globalprotect) | GlobalProtect lambda functions |
 | [Panorama Configuration](https://github.com/ministryofjustice/terraform-panorama-config) | Panorama Config written in Terraform |
 | [Public Services Network](https://github.com/ministryofjustice/deployment-PSN) | Public Services Network connection in AWS, connected via Lumen (previously CenturyLink) |
+| [Deployment for SOP](https://github.com/ministryofjustice/deployment-SOP-OCI-Access) | Code to deploy Palo Alto VM-Series firewalls for access to SOP OCI Access |
 
 ### Shared Services
 | Name | Description |
